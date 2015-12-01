@@ -1,0 +1,30 @@
+{
+  "name": "gulp-raygun-sourcemaps",
+  "version": "1.0.0",
+  "description": "Uploads sourcemaps from gulp into Raygun",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MindscapeHQ/gulp-raygun-sourcemaps.git"
+  },
+  "keywords": [
+    "raygun",
+    "upload",
+    "sourcemap",
+    "gulpplugin"
+  ],
+  "author": "raygun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MindscapeHQ/gulp-raygun-sourcemaps/issues"
+  },
+  "homepage": "https://github.com/MindscapeHQ/gulp-raygun-sourcemaps#readme",
+  "dependencies": {
+    "async": "^1.5.0",
+    "request": "^2.67.0",
+    "through2": "^2.0.0"
+  }
+}
