@@ -2,7 +2,7 @@
 
 #### To install
 
-`npm install gulp-raygun-sourcemaps --save-dev`
+	npm install gulp-raygun-sourcemaps --save-dev
 
 #### Using
 
