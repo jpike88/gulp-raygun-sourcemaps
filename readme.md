@@ -1,5 +1,7 @@
 # gulp-raygun-sourcemaps
 
+Uploads source maps and source files from gulp to Raygun.
+
 #### To install
 
 	npm install gulp-raygun-sourcemaps --save-dev
