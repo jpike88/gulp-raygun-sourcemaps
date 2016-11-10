@@ -40,6 +40,7 @@ Uploads source maps and source files from gulp to Raygun.
 				root: __dirname,
 				minified: 'dist',
 				src: 'src/',
+				recursive: true,
 				url: 'http://localhost:8000/'
 			}));
 	});
